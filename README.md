@@ -10,3 +10,9 @@
 **外部人员若实在需要，请申请并备注**
 
 **飞书链接:https://uestc.feishu.cn/docx/FrIQduzecoB6plxC9hecENkMnMg**
+
+
+
+**2024-09-12**
+
+​	今天发现昨天上传的图片不是相对地址，今天已经改正
